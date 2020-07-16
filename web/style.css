@@ -1,0 +1,40 @@
+body {
+    background: aliceblue;
+    background-size: cover;
+    padding: 50px 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.input [id="number1"] {
+    margin-bottom: 15px;
+    width: 270px;
+    margin-top: 15px;
+}
+
+.input [id="number2"] {
+    margin-bottom: 15px;
+    width: 270px;
+}
+
+label {
+    color: darkblue;
+    font-size: 25px;
+}
+
+.button input {
+    background-color: cornflowerblue;
+    border: none;
+    padding: 5px;
+    color: white;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 50px;
+    margin-bottom: 20px;
+}
+
+.button input[type="text"] {
+
+    width: 270px;
+    font-size: 16px;
+    padding: 10px;
+}
